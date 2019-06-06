@@ -1,2 +1,10 @@
-# twitterclone
-A simple Twitter: Log in/ Sign Up page using HTML &amp; CSS
+#TWITTER CLONE
+****
+A Clone of Twitter: Sign Up/Log in Page using HTML & CSS. A good practice for beginners who is learning HTML & CSS
+****
+
+BUILT WITH:
+
+HTML 
+CSS
+
